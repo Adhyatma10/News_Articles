@@ -97,7 +97,6 @@ Project_Root/
 
 ### **Dependencies**
 - Python 3.x
-- Libraries - Mentioned in venv file.
 - Tableau Desktop
 
 ## 4. **Insights** 🔍
